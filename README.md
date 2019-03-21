@@ -1,2 +1,2 @@
-# github.learn
-Get started with github
+# GitHub Learnning
+Get started with Git-Hub
